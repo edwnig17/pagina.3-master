@@ -1,0 +1,43 @@
+
+@import url('https://fonts.cdnfonts.com/css/old-london');
+.contenedor{    
+    width: 750px;
+    margin: auto;
+    background-image: url('img/back.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 50px;
+    text-align: justify;
+}
+
+.contenedor p{
+    line-height: 100%;
+    
+}
+.header{
+    text-align: center;
+}
+.header h1{
+    
+    border-bottom: 2px solid black;
+    border-top: 2px solid black;
+    padding: 10px;
+    margin: 9px;
+}
+h1{
+    font-family: 'Old London', sans-serif;
+}
+.contenido-periodico{
+    width: 100%;
+    display: inline-block;
+}
+.contenido-lados{
+    width: 49%;
+    display: inline-block;
+    vertical-align: top ;
+    text-align: center;
+}   
+
+
+ 
+
